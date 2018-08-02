@@ -1,6 +1,6 @@
 from fractions import Fraction
 import numpy as np
-f
+
 def tick_formatter(tick):
     """
     Format tick into a nice ticklabel.
